@@ -1,0 +1,269 @@
+fileFormatVersion: 2
+guid: bea3ab0cff59e4744b62780836f94cb6
+timeCreated: 1485122718
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bip01 R Finger0
+    100004: Bip01 R Finger01
+    100006: Bip01 R Finger02
+    100008: Bip01 R Finger02_end
+    100010: Bip01 R Finger043
+    100012: Bip01 R Finger044
+    100014: Bip01 R Finger045
+    100016: Bip01 R Finger045_end
+    100018: Bip01 R Finger046
+    100020: Bip01 R Finger047
+    100022: Bip01 R Finger048
+    100024: Bip01 R Finger048_end
+    100026: Bip01 R Finger049
+    100028: Bip01 R Finger050
+    100030: Bip01 R Finger051
+    100032: Bip01 R Finger051_end
+    100034: Bip01 R Finger052
+    100036: Bip01 R Finger053
+    100038: Bip01 R Finger054
+    100040: Bip01 R Finger054_end
+    100042: Bip01 R Finger055
+    100044: Bip01 R Finger056
+    100046: Bip01 R Finger057
+    100048: Bip01 R Finger057_end
+    100050: Bip01 R Finger0Nub
+    100052: Bip01 R Finger0Nub001
+    100054: Bip01 R Finger1
+    100056: Bip01 R Finger11
+    100058: Bip01 R Finger12
+    100060: Bip01 R Finger12_end
+    100062: Bip01 R Finger1Nub
+    100064: Bip01 R Finger1Nub001
+    100066: Bip01 R Finger2
+    100068: Bip01 R Finger21
+    100070: Bip01 R Finger22
+    100072: Bip01 R Finger22_end
+    100074: Bip01 R Finger2Nub
+    100076: Bip01 R Finger2Nub001
+    100078: Bip01 R Finger3
+    100080: Bip01 R Finger31
+    100082: Bip01 R Finger32
+    100084: Bip01 R Finger32_end
+    100086: Bip01 R Finger3Nub
+    100088: Bip01 R Finger3Nub001
+    100090: Bip01 R Finger4
+    100092: Bip01 R Finger41
+    100094: Bip01 R Finger42
+    100096: Bip01 R Finger42_end
+    100098: Bip01 R Finger4Nub
+    100100: Bip01 R Finger4Nub001
+    100102: Bip01 R Forearm
+    100104: Bip01 R Forearm001
+    100106: Bip01 R ForeTwist
+    100108: Bip01 R ForeTwist005
+    100110: Bip01 R ForeTwist006
+    100112: Bip01 R ForeTwist007
+    100114: Bip01 R ForeTwist008
+    100116: Bip01 R ForeTwist009
+    100118: Bip01 R ForeTwist1
+    100120: Bip01 R ForeTwist2
+    100122: Bip01 R ForeTwist3
+    100124: Bip01 R ForeTwist4
+    100126: Bip01 R Hand
+    100128: Bip01 R Hand001
+    100130: Cube.001_dupl0
+    100132: Cube.003_dupl6
+    100134: Cube.004_dupl5
+    100136: Cube.005_dupl4
+    100138: Cube.006_dupl3
+    100140: Cube.007_dupl1
+    100142: Cylinder_dupl7
+    100144: //RootNode
+    100146: male_arm_left
+    100148: male_arm_right
+    100150: MultiEdit
+    100152: Sphere.002_dupl2
+    100154: Sphere_dupl8
+    400000: Armature
+    400002: Bip01 R Finger0
+    400004: Bip01 R Finger01
+    400006: Bip01 R Finger02
+    400008: Bip01 R Finger02_end
+    400010: Bip01 R Finger043
+    400012: Bip01 R Finger044
+    400014: Bip01 R Finger045
+    400016: Bip01 R Finger045_end
+    400018: Bip01 R Finger046
+    400020: Bip01 R Finger047
+    400022: Bip01 R Finger048
+    400024: Bip01 R Finger048_end
+    400026: Bip01 R Finger049
+    400028: Bip01 R Finger050
+    400030: Bip01 R Finger051
+    400032: Bip01 R Finger051_end
+    400034: Bip01 R Finger052
+    400036: Bip01 R Finger053
+    400038: Bip01 R Finger054
+    400040: Bip01 R Finger054_end
+    400042: Bip01 R Finger055
+    400044: Bip01 R Finger056
+    400046: Bip01 R Finger057
+    400048: Bip01 R Finger057_end
+    400050: Bip01 R Finger0Nub
+    400052: Bip01 R Finger0Nub001
+    400054: Bip01 R Finger1
+    400056: Bip01 R Finger11
+    400058: Bip01 R Finger12
+    400060: Bip01 R Finger12_end
+    400062: Bip01 R Finger1Nub
+    400064: Bip01 R Finger1Nub001
+    400066: Bip01 R Finger2
+    400068: Bip01 R Finger21
+    400070: Bip01 R Finger22
+    400072: Bip01 R Finger22_end
+    400074: Bip01 R Finger2Nub
+    400076: Bip01 R Finger2Nub001
+    400078: Bip01 R Finger3
+    400080: Bip01 R Finger31
+    400082: Bip01 R Finger32
+    400084: Bip01 R Finger32_end
+    400086: Bip01 R Finger3Nub
+    400088: Bip01 R Finger3Nub001
+    400090: Bip01 R Finger4
+    400092: Bip01 R Finger41
+    400094: Bip01 R Finger42
+    400096: Bip01 R Finger42_end
+    400098: Bip01 R Finger4Nub
+    400100: Bip01 R Finger4Nub001
+    400102: Bip01 R Forearm
+    400104: Bip01 R Forearm001
+    400106: Bip01 R ForeTwist
+    400108: Bip01 R ForeTwist005
+    400110: Bip01 R ForeTwist006
+    400112: Bip01 R ForeTwist007
+    400114: Bip01 R ForeTwist008
+    400116: Bip01 R ForeTwist009
+    400118: Bip01 R ForeTwist1
+    400120: Bip01 R ForeTwist2
+    400122: Bip01 R ForeTwist3
+    400124: Bip01 R ForeTwist4
+    400126: Bip01 R Hand
+    400128: Bip01 R Hand001
+    400130: Cube.001_dupl0
+    400132: Cube.003_dupl6
+    400134: Cube.004_dupl5
+    400136: Cube.005_dupl4
+    400138: Cube.006_dupl3
+    400140: Cube.007_dupl1
+    400142: Cylinder_dupl7
+    400144: //RootNode
+    400146: male_arm_left
+    400148: male_arm_right
+    400150: MultiEdit
+    400152: Sphere.002_dupl2
+    400154: Sphere_dupl8
+    2300000: Cube.001_dupl0
+    2300002: Cube.003_dupl6
+    2300004: Cube.004_dupl5
+    2300006: Cube.005_dupl4
+    2300008: Cube.006_dupl3
+    2300010: Cube.007_dupl1
+    2300012: Cylinder_dupl7
+    2300014: MultiEdit
+    2300016: Sphere.002_dupl2
+    2300018: Sphere_dupl8
+    3300000: Cube.001_dupl0
+    3300002: Cube.003_dupl6
+    3300004: Cube.004_dupl5
+    3300006: Cube.005_dupl4
+    3300008: Cube.006_dupl3
+    3300010: Cube.007_dupl1
+    3300012: Cylinder_dupl7
+    3300014: MultiEdit
+    3300016: Sphere.002_dupl2
+    3300018: Sphere_dupl8
+    4300000: MultiEdit
+    4300002: Cube.001_dupl0
+    4300004: Cube.007_dupl1
+    4300006: Sphere.002_dupl2
+    4300008: Cube.006_dupl3
+    4300010: Cube.005_dupl4
+    4300012: Cube.004_dupl5
+    4300014: Cube.003_dupl6
+    4300016: Cylinder_dupl7
+    4300018: Sphere_dupl8
+    4300020: male_arm_left
+    4300022: male_arm_right
+    7400000: MultiEdit|MultiEditAction
+    7400002: Armature|ArmatureAction
+    7400004: Armature|MultiEditAction
+    9500000: //RootNode
+    13700000: male_arm_left
+    13700002: male_arm_right
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 47c0d919f5b6465448a5e7b3027e1e66
+timeCreated: 1485040690
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Skirmisher Rotalic
+  fontNames:
+  - Skirmisher Rotalic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

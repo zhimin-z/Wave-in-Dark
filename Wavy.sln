@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wavy.Plugins", "Wavy.Plugins.csproj", "{920DB2F7-BAC1-AC0D-DC68-B2BE4FAE3C48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wavy", "Wavy.csproj", "{7DEFA9A0-4DF9-8B9B-63D0-9E059A577C8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wavy.Editor.Plugins", "Wavy.Editor.Plugins.csproj", "{78E2B42C-31AB-84F6-3514-748B54D54F40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{920DB2F7-BAC1-AC0D-DC68-B2BE4FAE3C48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{920DB2F7-BAC1-AC0D-DC68-B2BE4FAE3C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{920DB2F7-BAC1-AC0D-DC68-B2BE4FAE3C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{920DB2F7-BAC1-AC0D-DC68-B2BE4FAE3C48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DEFA9A0-4DF9-8B9B-63D0-9E059A577C8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DEFA9A0-4DF9-8B9B-63D0-9E059A577C8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DEFA9A0-4DF9-8B9B-63D0-9E059A577C8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DEFA9A0-4DF9-8B9B-63D0-9E059A577C8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78E2B42C-31AB-84F6-3514-748B54D54F40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78E2B42C-31AB-84F6-3514-748B54D54F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78E2B42C-31AB-84F6-3514-748B54D54F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78E2B42C-31AB-84F6-3514-748B54D54F40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

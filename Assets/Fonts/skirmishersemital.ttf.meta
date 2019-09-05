@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a48ad9b091d211f4c87b376eee526f0c
+timeCreated: 1485040690
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Skirmisher Semi-Italic
+  fontNames:
+  - Skirmisher Semi-Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

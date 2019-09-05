@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 57c7c612de0f19049a4f745355572728
+timeCreated: 1485040690
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Skirmisher Expanded Italic
+  fontNames:
+  - Skirmisher Expanded Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

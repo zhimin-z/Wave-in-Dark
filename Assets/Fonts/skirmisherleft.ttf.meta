@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a62a4b6c8be617444941d72afe0c5e99
+timeCreated: 1485040690
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Skirmisher Leftalic
+  fontNames:
+  - Skirmisher Leftalic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

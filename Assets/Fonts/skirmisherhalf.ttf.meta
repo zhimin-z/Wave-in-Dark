@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4db9fba89ef98544b8ec8310c888644a
+timeCreated: 1485040690
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Skirmisher Halftone
+  fontNames:
+  - Skirmisher Halftone
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
